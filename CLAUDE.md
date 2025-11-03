@@ -10,7 +10,7 @@ This is an NFT metadata and artwork extraction tool that uses the Alchemy API to
 
 1. Install required dependencies:
 ```bash
-pip install requests python-dotenv
+pip install -r requirements.txt
 ```
 
 2. Create a `.env` file in the project root with your configuration:

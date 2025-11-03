@@ -17,7 +17,7 @@ A Python tool to extract NFT metadata, artwork, and descriptions from Ethereum u
 
 1. Install dependencies:
 ```bash
-pip install requests python-dotenv
+pip install -r requirements.txt
 ```
 
 2. Create `.env` file:
